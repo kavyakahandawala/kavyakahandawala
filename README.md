@@ -1,4 +1,4 @@
-readme_content = """<div align="center">
+<div align="center">
 
 # Kavya Kahandawala
 
