@@ -59,10 +59,3 @@
 </p>
 
 </div>
-"""
-
-with open('/mnt/agents/output/README.md', 'w') as f:
-    f.write(readme_content)
-
-print("README.md generated successfully!")
-print(readme_content)
