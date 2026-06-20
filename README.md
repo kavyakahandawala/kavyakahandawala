@@ -4,7 +4,7 @@
 
 ### Undergraduate at SLIIT | AI & Data Science Enthusiast
 
-📧 [kavyakahandawala@gmail.com](mailto:kavyakahandawala@gmail.com)
+📧 [kavyakahandawala0611@gmail.com](mailto:kavyakahandawala0611@gmail.com)
 
 ---
 
