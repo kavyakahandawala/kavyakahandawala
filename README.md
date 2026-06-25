@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # Kavya Kahandawala
 
 ### Undergraduate at SLIIT | AI & Data Science Enthusiast
