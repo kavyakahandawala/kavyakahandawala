@@ -38,9 +38,7 @@
 
 ### GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kavyakahandawala&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
-</p>
+
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyakahandawala&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
